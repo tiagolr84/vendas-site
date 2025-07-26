@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Itens à Venda</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="header-title">
+                <i class="fas fa-store"></i>
+                Itens à Venda
+            </h1>
+            <p class="header-subtitle">Encontre produtos de qualidade com preços especiais</p>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div class="filters">
+                <button class="filter-btn active" data-category="all">
+                    <i class="fas fa-th"></i>
+                    Todos
+                </button>
+                <button class="filter-btn" data-category="Cozinha">
+                    <i class="fas fa-utensils"></i>
+                    Cozinha
+                </button>
+                <button class="filter-btn" data-category="Sala">
+                    <i class="fas fa-couch"></i>
+                    Sala
+                </button>
+                <button class="filter-btn" data-category="Varanda">
+                    <i class="fas fa-leaf"></i>
+                    Varanda
+                </button>
+                <button class="filter-btn" data-category="Quarto Infantil">
+                    <i class="fas fa-child"></i>
+                    Quarto Infantil
+                </button>
+                <button class="filter-btn" data-category="Quarto">
+                    <i class="fas fa-bed"></i>
+                    Quarto
+                </button>
+                <button class="filter-btn" data-category="Escritório">
+                    <i class="fas fa-laptop"></i>
+                    Escritório
+                </button>
+            </div>
+
+            <div class="items-grid" id="itemsGrid">
+                <!-- Items will be populated by JavaScript -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal for image gallery -->
+    <div class="modal" id="imageModal">
+        <div class="modal-content">
+            <span class="close" id="closeModal">&times;</span>
+            <div class="modal-body">
+                <div class="image-gallery">
+                    <div class="main-image">
+                        <img id="mainImage" src="" alt="">
+                        <button class="nav-btn prev-btn" id="prevBtn">
+                            <i class="fas fa-chevron-left"></i>
+                        </button>
+                        <button class="nav-btn next-btn" id="nextBtn">
+                            <i class="fas fa-chevron-right"></i>
+                        </button>
+                    </div>
+                    <div class="thumbnail-gallery" id="thumbnailGallery">
+                        <!-- Thumbnails will be populated by JavaScript -->
+                    </div>
+                </div>
+                <div class="item-details">
+                    <h2 id="modalItemName"></h2>
+                    <p class="price" id="modalItemPrice"></p>
+                    <div class="description-section">
+                        <label for="modalItemDescription">Descrição:</label>
+                        <textarea id="modalItemDescription" rows="4" placeholder="Adicione uma descrição para este item..."></textarea>
+                        <button class="save-btn" id="saveDescription">
+                            <i class="fas fa-save"></i>
+                            Salvar Descrição
+                        </button>
+                    </div>
+                    <div class="link-section" id="linkSection">
+                        <label>Link de Referência:</label>
+                        <a id="modalItemLink" href="#" target="_blank" rel="noopener noreferrer">
+                            <i class="fas fa-external-link-alt"></i>
+                            Ver produto original
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Itens à Venda. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
