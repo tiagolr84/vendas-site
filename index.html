@@ -5,13 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Itens à Venda</title>
     <link rel="stylesheet" href="styles.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-    <!-- Header -->
     <header class="header">
         <div class="container">
             <h1 class="header-title">
@@ -22,95 +19,76 @@
         </div>
     </header>
 
-    <!-- Main Content -->
     <main class="main">
         <div class="container">
-            <!-- Filters -->
             <div class="filters">
                 <button class="filter-btn active" data-category="all">
                     <i class="fas fa-th"></i>
                     Todos
-                    <span id="allCount">0</span>
                 </button>
                 <button class="filter-btn" data-category="Cozinha">
                     <i class="fas fa-utensils"></i>
                     Cozinha
-                    <span id="cozinhaCount">0</span>
                 </button>
                 <button class="filter-btn" data-category="Sala">
                     <i class="fas fa-couch"></i>
                     Sala
-                    <span id="salaCount">0</span>
                 </button>
                 <button class="filter-btn" data-category="Varanda">
-                    <i class="fas fa-seedling"></i>
+                    <i class="fas fa-leaf"></i>
                     Varanda
-                    <span id="varandaCount">0</span>
                 </button>
                 <button class="filter-btn" data-category="Quarto Infantil">
                     <i class="fas fa-child"></i>
                     Quarto Infantil
-                    <span id="quartoinfantilCount">0</span>
                 </button>
                 <button class="filter-btn" data-category="Quarto">
                     <i class="fas fa-bed"></i>
                     Quarto
-                    <span id="quartoCount">0</span>
                 </button>
                 <button class="filter-btn" data-category="Escritório">
                     <i class="fas fa-laptop"></i>
                     Escritório
-                    <span id="escritorioCount">0</span>
                 </button>
             </div>
 
-            <!-- Items Grid -->
-            <div id="itemsGrid" class="items-grid">
-                <!-- Items will be loaded here by JavaScript -->
-                <div class="loading">
-                    <i class="fas fa-spinner fa-spin"></i>
-                    Carregando itens...
-                </div>
+            <div class="items-grid" id="itemsGrid">
+                <!-- Items will be populated by JavaScript -->
             </div>
         </div>
     </main>
 
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="container">
-            <p>&copy; 2025 Itens à Venda. Todos os direitos reservados.</p>
-        </div>
-    </footer>
-
-    <!-- Image Modal -->
-    <div id="imageModal" class="modal">
+    <!-- Modal for image gallery -->
+    <div class="modal" id="imageModal">
         <div class="modal-content">
-            <span id="closeModal" class="close">&times;</span>
+            <span class="close" id="closeModal">&times;</span>
             <div class="modal-body">
                 <div class="image-gallery">
                     <div class="main-image">
                         <img id="mainImage" src="" alt="">
-                        <button id="prevBtn" class="nav-btn prev-btn">
+                        <button class="nav-btn prev-btn" id="prevBtn">
                             <i class="fas fa-chevron-left"></i>
                         </button>
-                        <button id="nextBtn" class="nav-btn next-btn">
+                        <button class="nav-btn next-btn" id="nextBtn">
                             <i class="fas fa-chevron-right"></i>
                         </button>
                     </div>
-                    <div id="thumbnailGallery" class="thumbnail-gallery">
-                        <!-- Thumbnails will be added here -->
+                    <div class="thumbnail-gallery" id="thumbnailGallery">
+                        <!-- Thumbnails will be populated by JavaScript -->
                     </div>
                 </div>
                 <div class="item-details">
-                    <h2 id="modalItemName">Nome do Item</h2>
-                    <div id="modalItemPrice" class="price">R$ 0,00</div>
-                    
+                    <h2 id="modalItemName"></h2>
+                    <p class="price" id="modalItemPrice"></p>
                     <div class="description-section">
-                        <label>Descrição:</label>
-                        <p id="modalItemDescription">Descrição do item...</p>
+                        <label for="modalItemDescription">Descrição:</label>
+                        <textarea id="modalItemDescription" rows="4" placeholder="Adicione uma descrição para este item..."></textarea>
+                        <button class="save-btn" id="saveDescription">
+                            <i class="fas fa-save"></i>
+                            Salvar Descrição
+                        </button>
                     </div>
-
-                    <div id="linkSection" class="link-section">
+                    <div class="link-section" id="linkSection">
                         <label>Link de Referência:</label>
                         <a id="modalItemLink" href="#" target="_blank" rel="noopener noreferrer">
                             <i class="fas fa-external-link-alt"></i>
@@ -121,6 +99,12 @@
             </div>
         </div>
     </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Itens à Venda. Todos os direitos reservados.</p>
+        </div>
+    </footer>
 
     <script src="script.js"></script>
 </body>
