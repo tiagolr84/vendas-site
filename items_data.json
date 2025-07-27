@@ -152,7 +152,7 @@
         "value": "150",
         "link": "",
         "category": "Cozinha",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Processador Walita.jpg"]
     },
     "bebedouroeletrico": {
         "original_name": "Bebedouro elétrico",
@@ -168,7 +168,7 @@
         "value": "50",
         "link": "",
         "category": "Cozinha",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Torradeira Philco.jpg"]
     },
     "panelainox": {
         "original_name": "Panela inox",
@@ -176,7 +176,7 @@
         "value": "100",
         "link": "",
         "category": "Cozinha",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Panela Inox.jpg"]
     },
     "mesajantar": {
         "original_name": "Mesa Jantar",
@@ -230,12 +230,12 @@
         ]
     },
     "tacasdeginn": {
-        "original_name": "Taças de ginn",
+        "original_name": "Taças de gin",
         "description": "2 unidades",
         "value": "20",
         "link": "",
         "category": "Sala",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Taçasgin.jpg"]
     },
     "coposwhisky": {
         "original_name": "Copos whisky",
@@ -291,7 +291,7 @@
         "value": "30",
         "link": "",
         "category": "Sala",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Puff.jpg"]
     },
     "racktv": {
         "original_name": "Rack TV",
@@ -412,7 +412,7 @@
         "value": "50",
         "link": "",
         "category": "Quarto",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Mesa Cabeceira.jpg"]
     },
     "mesaquarto": {
         "original_name": "Mesa Quarto",
@@ -440,7 +440,8 @@
         "value": "50",
         "link": "",
         "category": "Quarto",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/LumináriaTokStok.jpg",
+                    "/home/ubuntu/vendas-site/images/LumináriaTokStok_2.jpg"]
     },
     "arvoredenatal": {
         "original_name": "Árvore de Natal",
@@ -448,7 +449,7 @@
         "value": "100",
         "link": "",
         "category": "Quarto",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Árvore de Natal.jpg"]
     },
     "furadeiraeparafusadeira": {
         "original_name": "Furadeira e Parafusadeira",
