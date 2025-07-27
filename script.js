@@ -2,11 +2,11 @@
 let itemsData = {};
 let currentImages = [];
 let currentImageIndex = 0;
-let currentItemKey = \'\';
+let currentItemKey = ";
 
 // DOM elements
 const itemsGrid = document.getElementById(\'itemsGrid\');
-const filterButtons = document.querySelectorAll(\'.filter-btn\');
+const filterButtons = document.querySelectorAll(\".filter-btn\");
 const modal = document.getElementById(\'imageModal\');
 const closeModal = document.getElementById(\'closeModal\');
 const mainImage = document.getElementById(\'mainImage\');
@@ -30,7 +30,9 @@ async function loadItemsData() {
     try {
         const response = await fetch(\'items_data.json\');
         itemsData = await response.json();
+        loadSavedDescriptions(); // Load saved descriptions from localStorage
         renderItems();
+        updateFilterCounts();
     } catch (error) {
         console.error(\'Error loading items data:\', error);
         showEmptyState(\'Erro ao carregar os dados dos itens.\');
@@ -86,41 +88,35 @@ function renderItems(filteredItems = null) {
     itemsGrid.innerHTML = \'\';
 
     Object.entries(items).forEach(([key, item]) => {
-        const itemCard = createItemCard(key, item);
-        itemsGrid.appendChild(itemCard);
+        const card = document.createElement(\'div\');
+        card.className = \'item-card\';
+        card.dataset.category = item.category;
+        card.addEventListener(\'click\', () => openImageModal(key, item));
+
+        const hasImages = item.images && item.images.length > 0;
+        const imageUrl = hasImages ? getImageUrl(item.images[0]) : \'https://via.placeholder.com/300x250?text=Sem+Imagem\';
+        const imageCount = hasImages ? item.images.length : 0;
+
+        card.innerHTML = `
+            <div class="item-image">
+                <img src="${imageUrl}" alt="${item.original_name}" loading="lazy">
+                ${imageCount > 1 ? `<div class="image-count"><i class="fas fa-images"></i> ${imageCount}</div>` : \'\'}
+                <div class="category-badge">${item.category}</div>
+            </div>
+            <div class="item-content">
+                <h3 class="item-name">${item.original_name}</h3>
+                <div class="item-price">R$ ${formatPrice(item.value)}</div>
+                <p class="item-description">${item.description || \'Clique para ver a descrição...\'}</p>
+                ${item.link ? `<a href="${item.link}" class="item-link" onclick="event.stopPropagation()" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i> Ver produto original</a>` : \'\'}
+            </div>
+        `;
+        itemsGrid.appendChild(card);
     });
-}
-
-// Create item card element
-function createItemCard(key, item) {
-    const card = document.createElement(\'div\');
-    card.className = \'item-card\';
-    card.dataset.category = item.category;
-    card.addEventListener(\'click\', () => openImageModal(key, item));
-
-    const hasImages = item.images && item.images.length > 0;
-    const imageUrl = hasImages ? getImageUrl(item.images[0]) : \'https://via.placeholder.com/300x250?text=Sem+Imagem\';
-    const imageCount = hasImages ? item.images.length : 0;
-
-    card.innerHTML = `
-        <div class="item-image">
-            <img src="${imageUrl}" alt="${item.original_name}" loading="lazy">
-            ${imageCount > 1 ? `<div class="image-count"><i class="fas fa-images"></i> ${imageCount}</div>` : \'\'}
-            <div class="category-badge">${item.category}</div>
-        </div>
-        <div class="item-content">
-            <h3 class="item-name">${item.original_name}</h3>
-            <div class="item-price">R$ ${formatPrice(item.value)}</div>
-            <p class="item-description">${item.description || \'Clique para ver a descrição...\'}</p>
-            ${item.link ? `<a href="${item.link}" class="item-link" onclick="event.stopPropagation()" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i> Ver produto original</a>` : \'\'}
-        </div>
-    `;
-
-    return card;
 }
 
 // Get image URL (convert absolute path to relative)
 function getImageUrl(imagePath) {
+    // Remove the /home/ubuntu/vendas-site/ prefix if it exists
     if (imagePath.startsWith(\'/home/ubuntu/vendas-site/\')) {
         return imagePath.replace(\'/home/ubuntu/vendas-site/\', \'\');
     }
@@ -135,7 +131,7 @@ function formatPrice(price) {
 
 // Filter items by category
 function filterItems(category) {
-    const cards = document.querySelectorAll(\'.item-card\');
+    const cards = document.querySelectorAll(\".item-card\");
     
     cards.forEach(card => {
         if (category === \'all\' || card.dataset.category === category) {
@@ -224,7 +220,7 @@ function showImage(index) {
     mainImage.alt = `Imagem ${index + 1}`;
 
     // Update active thumbnail
-    const thumbnails = thumbnailGallery.querySelectorAll(\'.thumbnail\');
+    const thumbnails = thumbnailGallery.querySelectorAll(\".thumbnail\");
     thumbnails.forEach((thumb, i) => {
         thumb.classList.toggle(\'active\', i === index);
     });
@@ -260,5 +256,44 @@ function showEmptyState(message) {
             <p>${message}</p>
         </div>
     `;
+}
+
+// Load saved descriptions from localStorage on page load
+function loadSavedDescriptions() {
+    const savedData = localStorage.getItem(\'itemsData\');
+    if (savedData) {
+        try {
+            const parsed = JSON.parse(savedData);
+            // Merge saved descriptions with loaded data
+            Object.keys(parsed).forEach(key => {
+                if (itemsData[key] && parsed[key].description) {
+                    itemsData[key].description = parsed[key].description;
+                }
+            });
+        } catch (error) {
+            console.error(\'Error loading saved descriptions:\', error);
+        }
+    }
+}
+
+// Update filter counts
+function updateFilterCounts() {
+    const allCount = Object.keys(itemsData).length;
+    document.getElementById(\'allCount\').textContent = allCount;
+
+    const categories = {};
+    for (const key in itemsData) {
+        const category = itemsData[key].category;
+        categories[category] = (categories[category] || 0) + 1;
+    }
+
+    for (const category in categories) {
+        // Normalize category name to match element IDs (e.g., "Quarto Infantil" -> "quartoinfantilCount")
+        const elementId = category.replace(/ /g, \'\').toLowerCase() + \'Count\';
+        const element = document.getElementById(elementId);
+        if (element) {
+            element.textContent = categories[category];
+        }
+    }
 }
 
