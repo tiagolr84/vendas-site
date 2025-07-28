@@ -220,13 +220,13 @@
         ]
     },
     "tacadevinho": {
-        "original_name": "Taça de Vinho",
+        "original_name": "Taças de Vinho",
         "description": "6 unidades",
         "value": "60",
         "link": "",
         "category": "Sala",
         "images": [
-            "/home/ubuntu/vendas-site/images/Taçasdevinho.jpeg"
+            "/home/ubuntu/vendas-site/images/Tacasdevinho.jpeg"
         ]
     },
     "tacasdeginn": {
