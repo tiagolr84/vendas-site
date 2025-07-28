@@ -50,7 +50,7 @@
     },
     "sofa": {
         "original_name": "Sofá",
-        "description": "Almofadas do encosto removíveis. Possui algumas manchas que sairão com lavagem profissional. Medidas:",
+        "description": "Almofadas do encosto removíveis. Possui algumas manchas que sairão com lavagem profissional.",
         "value": "400",
         "link": "https://homedock.com.br/products/sofa-3-lugares-atlas-214-cm-linho-texturizado-moka-c-natural",
         "category": "Sala",
@@ -60,7 +60,7 @@
     },
     "nespresso": {
         "original_name": "Nespresso",
-        "description": "Pouquíssimo uso, linha nova da Nespresso",
+        "description": "Pouquíssimo uso, linha nova da Nespresso. Acompanha algumas cápsulas",
         "value": "200",
         "link": "https://www.nespresso.com/br/pt/order/machines/vertuo/cafeteira-vertuo-pop-preta-110v?gclsrc=aw.ds&gad_source=4&gad_campaignid=21102957979&gbraid=0AAAAADYYMzCktc1seU6dzFRVtFQ1RXfah&gclid=Cj0KCQjw-ZHEBhCxARIsAGGN96KVUHnKlRHxFRIAdXWga54qJH1b1YGXNBRysOjR3Bmo4aGO8QJk-5waAsBtEALw_wcB",
         "category": "Sala",
@@ -89,7 +89,7 @@
         ]
     },
     "bancopequenopreto": {
-        "original_name": "banco pequeno preto",
+        "original_name": "Banco pequeno preto",
         "description": "Tok stok",
         "value": "80",
         "link": "https://www.tokstok.com.br/banco-baixo-natural-washed-branco-paletbox/p?idsku=304029&region_id=000008&utm_source=google&utm_medium=cpc&utm_campaign=18246656113&utm_term=&gad_source=1&gad_campaignid=18246657832&gbraid=0AAAAADGVPjV8Fqfr03hXK2nx_HR7TzSF7&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxMfSylEw4_VrpETw7Pk3rmDBVHBX6Oq1a_9MxoH6zA7TsosgqmwiWQaAn_lEALw_wcB",
@@ -159,8 +159,8 @@
         "description": "Para gatos e cachorros",
         "value": "30",
         "link": "",
-        "category": "Cozinha",
-        "images": []
+        "category": "Varanda",
+        "images": ["/home/ubuntu/vendas-site/images/Bebedouro Pet Elétrico.jpg"]
     },
     "torradeira": {
         "original_name": "Torradeira",
@@ -253,7 +253,7 @@
         "value": "40",
         "link": "",
         "category": "Sala",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/lampada.jpg"]
     },
     "tacasdelicor": {
         "original_name": "Taças de licor",
@@ -401,7 +401,7 @@
         "description": "",
         "value": "30",
         "link": "",
-        "category": "Quarto Infantil",
+        "category": "Varanda",
         "images": [
             "/home/ubuntu/vendas-site/images/Transporteanimal.jpg"
         ]
@@ -486,7 +486,7 @@
         "value": "200",
         "link": "",
         "category": "Quarto",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Quadrogrande.jpg"]
     },
     "espelhocomluzledbranca": {
         "original_name": "Espelho com Luz led branca",
@@ -504,7 +504,7 @@
         "value": "1000",
         "link": "",
         "category": "Escritório",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Ar Condicionado.jpeg"]
     },
     "cadeiras": {
         "original_name": "Cadeiras Flexform",
@@ -522,7 +522,7 @@
         "value": "100",
         "link": "",
         "category": "Escritório",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Colchonete Ortobom.jpg"]
     },
     "quadros": {
         "original_name": "Quadros",
@@ -530,7 +530,7 @@
         "value": "50 cada",
         "link": "",
         "category": "Escritório",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/Quadros.jpg"]
     },
     "monitor": {
         "original_name": "Monitor",
@@ -538,7 +538,7 @@
         "value": "400",
         "link": "",
         "category": "Escritório",
-        "images": []
+        "images": ["/home/ubuntu/vendas-site/images/monitor.png"]
     },
     "bicicleta": {
         "original_name": "bicicleta",
