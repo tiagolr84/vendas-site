@@ -170,6 +170,14 @@
         "category": "Cozinha",
         "images": ["/home/ubuntu/vendas-site/images/Torradeira Philco.jpg"]
     },
+    "moedor": {
+        "original_name": "Moedor de Café",
+        "description": "Philco - pouco uso",
+        "value": "80",
+        "link": "https://www.philco.com.br/perfect-coffee/p",
+        "category": "Cozinha",
+        "images": ["/home/ubuntu/vendas-site/images/Moedor de Café.jpg"]
+    },
     "panelainox": {
         "original_name": "Panela inox",
         "description": "Marca: BSF",
@@ -326,7 +334,7 @@
             "/home/ubuntu/vendas-site/images/BuffetMadeira_4.jpg"
         ]
     },
-    "poltronasala": {
+    "poltronasala2": {
         "original_name": "Poltrona sala 2",
         "description": "",
         "value": "200",
@@ -450,8 +458,7 @@
         "value": "50",
         "link": "",
         "category": "Quarto",
-        "images": ["/home/ubuntu/vendas-site/images/LumináriaTokStok.jpg",
-                    "/home/ubuntu/vendas-site/images/LumináriaTokStok_2.jpg"]
+        "images": ["/home/ubuntu/vendas-site/images/LumináriaTokStok_2.jpg"]
     },
     "arvoredenatal": {
         "original_name": "Árvore de Natal",
@@ -496,7 +503,7 @@
         "value": "200",
         "link": "",
         "category": "Quarto",
-        "images": ["/home/ubuntu/vendas-site/images/Quadrogrande.jpg"]
+        "images": ["/home/ubuntu/vendas-site/images/Quadro.jpg"]
     },
     "espelhocomluzledbranca": {
         "original_name": "Espelho com Luz led branca",
