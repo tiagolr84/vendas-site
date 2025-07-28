@@ -220,7 +220,7 @@
     "quadrogrande": {
         "original_name": "Quadro grande",
         "description": "Medidas: 102x72",
-        "value": "100",
+        "value": "150",
         "link": "",
         "category": "Sala",
         "images": [
@@ -286,7 +286,7 @@
     "quadromedio": {
         "original_name": "Quadro médio",
         "description": "Medidas: 72 x 72",
-        "value": "100",
+        "value": "150",
         "link": "",
         "category": "Sala",
         "images": [
@@ -519,6 +519,14 @@
         "original_name": "Ar condicionado",
         "description": "Consul inverter 7500 btus",
         "value": "1000",
+        "link": "",
+        "category": "Escritório",
+        "images": ["/home/ubuntu/vendas-site/images/Ar Condicionado.jpeg"]
+    },
+    "mesadupla": {
+        "original_name": "Mesa Escritório",
+        "description": "Tok Stok",
+        "value": "300",
         "link": "",
         "category": "Escritório",
         "images": ["/home/ubuntu/vendas-site/images/Ar Condicionado.jpeg"]
