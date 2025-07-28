@@ -329,11 +329,21 @@
     "poltronasala": {
         "original_name": "Poltrona sala 2",
         "description": "",
-        "value": "300",
+        "value": "200",
         "link": "",
         "category": "Sala",
         "images": [
             "/home/ubuntu/vendas-site/images/PoltronaSala.jpg"
+        ]
+    },
+    "poltronasala": {
+        "original_name": "Poltrona sala",
+        "description": "",
+        "value": "200",
+        "link": "",
+        "category": "Sala",
+        "images": [
+            "/home/ubuntu/vendas-site/images/Poltrona.jpg"
         ]
     },
     "chaise": {
