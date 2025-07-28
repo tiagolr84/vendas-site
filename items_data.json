@@ -541,35 +541,35 @@
         "images": ["/home/ubuntu/vendas-site/images/monitor.png"]
     },
     "bicicleta": {
-        "original_name": "bicicleta",
+        "original_name": "Bicicleta Infantil",
         "description": "",
         "value": "100",
         "link": "",
-        "category": "Outros",
-        "images": []
+        "category": "Quarto Infantil",
+        "images": ["/home/ubuntu/vendas-site/images/bicicleta.jpeg"]
     },
     "patinete": {
-        "original_name": "patinete",
+        "original_name": "Patinete",
         "description": "",
         "value": "70",
         "link": "",
-        "category": "Outros",
-        "images": []
+        "category": "Quarto Infantil",
+        "images": ["/home/ubuntu/vendas-site/images/patinete.jpeg"]
     },
     "carrinhorolima": {
-        "original_name": "carrinho rolimã",
+        "original_name": "Carrinho de rolimã",
         "description": "",
         "value": "150",
         "link": "",
-        "category": "Outros",
-        "images": []
+        "category": "Quarto Infantil",
+        "images": ["/home/ubuntu/vendas-site/images/carrinhorolima.jpeg"]
     },
     "retroescavadeira": {
-        "original_name": "retroescavadeira",
+        "original_name": "Retroescavadeira",
         "description": "",
         "value": "80",
         "link": "",
-        "category": "Outros",
-        "images": []
+        "category": "Quarto Infantil",
+        "images": ["/home/ubuntu/vendas-site/images/Retroescavadeira.jpeg"]
     }
 }
