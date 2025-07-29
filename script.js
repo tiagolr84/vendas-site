@@ -113,7 +113,7 @@ function createItemCard(key, item) {
             <div class="category-badge">${item.category}</div>
         </div>
         <div class="item-content">
-            <h3 class="item-name${item.vendido ? ' vendido' : ''}">${item.original_name}</h3>
+            <h3 class="item-name">${item.original_name}</h3>
             <div class="item-price">R$ ${formatPrice(item.value)}</div>
             <p class="item-description">${item.description || 'Clique para adicionar uma descrição...'}</p>
             ${item.link ? `<a href="${item.link}" class="item-link" onclick="event.stopPropagation()" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i> Ver produto original</a>` : ''}
