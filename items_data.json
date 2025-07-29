@@ -39,7 +39,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Paneladepressãoelétrica.jpg"]
     },
     "climatizador": {
-        "original_name": "Climatizador",
+        "original_name": "VENDIDO - Climatizador",
         "description": "Midea",
         "value": "150",
         "link": "https://www.leroymerlin.com.br/climatizador-de-ar-portatil-frio-midea-4,5l-127v--110v--akap_92182356?region=outros&region_id=43000&gad_source=1&gad_campaignid=21060357769&gbraid=0AAAAADkzLZ4kKrcPj2qmcjxuOUYwkRWYK&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxMfSNPVrrM6A461tavgiFmzqpmW8pg0QIrBB4tXoQ134OL17lfseoMaAqBZEALw_wcB",
@@ -80,7 +80,7 @@
         ]
     },
     "tvsala": {
-        "original_name": "TV Sala",
+        "original_name": "VENDIDO - TV Sala",
         "description": "Samsung 50' Crystal 4K",
         "value": "1200",
         "link": "https://www.amazon.com.br/Samsung-Smart-UHD-50DU7700-Processador/dp/B0CYNCBBHG/ref=asc_df_B0CYNCBBHG?mcid=402ee8393e8b3d61a2c963b246f3d9a6&tag=googleshopp00-20&linkCode=df0&hvadid=709964502896&hvpos=&hvnetw=g&hvrand=8961176874226046288&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100815&hvtargid=pla-2307665521902&psc=1&language=pt_BR&gad_source=1",
@@ -104,7 +104,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Banco Pequeno.jpg"]
     },
     "churrasqueira": {
-        "original_name": "Churrasqueira",
+        "original_name": "VENDIDO - Churrasqueira",
         "description": "Portátil, utiliza carvão",
         "value": "300",
         "link": "https://www.amazon.com.br/Table-Grill-Churrasqueira-Carv%C3%A3o-Cinza/dp/B07RXV7CV1/ref=asc_df_B07RXV7CV1?mcid=bb03bb470085370ea48b642a1e87dd6f&tag=googleshopp00-20&linkCode=df0&hvadid=709885039576&hvpos=&hvnetw=g&hvrand=7951333095710112518&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100815&hvtargid=pla-796921931001&language=pt_BR&gad_source=1&th=1",
@@ -114,7 +114,7 @@
         ]
     },
     "comoda": {
-        "original_name": "Cômoda",
+        "original_name": "VENDIDO - Cômoda",
         "description": "4 gavetas. Pouco tempo de uso",
         "value": "600",
         "link": "https://www.tokstok.com.br/comoda-4-gavetas-90-cm-x-45-cm-branco-mince/p?idsku=333404&region_id=000008&utm_source=google&utm_medium=cpc&utm_campaign=18246975493&utm_term=&gad_source=1&gad_campaignid=18245623617&gbraid=0AAAAADGVPjULT7oIvHGnhbin58S-j6ZEz&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxMleu1rnQ2NVKqkuT-AsSWi5TrTBzaowq-jxWiN6mpr_QSSCX9JNc8aAuWGEALw_wcB",
@@ -154,7 +154,7 @@
         ]
     },
     "processadoreliquidificador": {
-        "original_name": "Processador e liquidificador",
+        "original_name": "VENDIDO - Processador e liquidificador",
         "description": "Philips Walita. Acompanha copo de liquidificador e acessórios para o processador",
         "value": "150",
         "link": "",
@@ -170,7 +170,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Bebedouro Pet Elétrico.jpg"]
     },
     "torradeira": {
-        "original_name": "Torradeira",
+        "original_name": "VENDIDO - Torradeira",
         "description": "",
         "value": "50",
         "link": "",
@@ -194,7 +194,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Panela Inox.jpg"]
     },
     "mesajantar": {
-        "original_name": "Mesa Jantar",
+        "original_name": "VENDIDO - Mesa Jantar",
         "description": "Tok Stok. Com 4 cadeiras e tampo de vidro (removível). Possui alguns arranhões. Podemos vender separado. A:76cm, L:80cm, C:135cm",
         "value": "500",
         "link": "",
@@ -301,7 +301,7 @@
         ]
     },
     "puff": {
-        "original_name": "Puff",
+        "original_name": "VENDIDO - Puff",
         "description": "Possui manchas",
         "value": "30",
         "link": "",
@@ -309,7 +309,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Puff.jpg"]
     },
     "racktv": {
-        "original_name": "Rack TV",
+        "original_name": "VENDIDO - Rack TV",
         "description": "Rack Tok Stok. Medidas: P:36cm, A:57cm, C:160cm",
         "value": "500",
         "link": "",
@@ -362,7 +362,7 @@
         ]
     },
     "chaise": {
-        "original_name": "Chaise",
+        "original_name": "VENDIDO - Chaise",
         "description": "Tecido impermeável para área externa. Acompanha 3 almofadas azuis e 2 brancas",
         "value": "500",
         "link": "",
@@ -382,7 +382,7 @@
         ]
     },
     "trelicademadeira": {
-        "original_name": "Treliça de madeira",
+        "original_name": "VENDIDO - Treliça de madeira",
         "description": "Leroy Merlin. Acompanha 4 cachepots",
         "value": "100",
         "link": "",
@@ -392,7 +392,7 @@
         ]
     },
     "lanterna": {
-        "original_name": "Lanterna",
+        "original_name": "VENDIDO - Lanterna",
         "description": "Camicado",
         "value": "50",
         "link": "",
@@ -402,7 +402,7 @@
         ]
     },
     "camainfantil": {
-        "original_name": "Cama infantil",
+        "original_name": "VENDIDO - Cama infantil",
         "description": "Acompanha colchão infantil. L:72cm, C:160cm, A:145cm",
         "value": "300",
         "link": "",
@@ -476,7 +476,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Árvore de Natal.jpg"]
     },
     "furadeiraeparafusadeira": {
-        "original_name": "Furadeira e Parafusadeira",
+        "original_name": "VENDIDO - Furadeira e Parafusadeira",
         "description": "Black & Decker",
         "value": "80",
         "link": "",
@@ -513,7 +513,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Quadro.jpg"]
     },
     "espelhocomluzledbranca": {
-        "original_name": "Espelho com Luz led branca",
+        "original_name": "VENDIDO - Espelho com Luz led branca",
         "description": "",
         "value": "50",
         "link": "",
