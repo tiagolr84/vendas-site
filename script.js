@@ -169,6 +169,7 @@ function openImageModal(key, item) {
     modalItemPrice.textContent = `R$ ${formatPrice(item.value)}`;
     modalItemDescription.value = item.description || '';
     modalItemDescription.readOnly = true;
+    saveDescriptionBtn.style.display = 'none';
 
     // Handle link
     if (item.link) {
