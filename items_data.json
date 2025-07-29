@@ -20,6 +20,16 @@
             "/home/ubuntu/vendas-site/images/MicroondasBrastemp20L.jpg"
         ]
     },
+    "liquidificador": {
+        "original_name": "Liquidificador",
+        "description": "Philips Walita",
+        "value": "80",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/Liquidificador.jpg"
+        ]
+    },
     "paneladepressaoeletrica": {
         "original_name": "Panela de pressão elétrica",
         "description": "Electrolux - 6L",
