@@ -171,10 +171,6 @@ body {
     color: #059669;
     margin-bottom: 0.75rem;
 }
-.item-name.vendido {
-  text-decoration: line-through;
-  color: #888;
-}
 
 .item-description {
     color: #64748b;
