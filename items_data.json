@@ -134,7 +134,7 @@
         ]
     },
     "rechaud": {
-        "original_name": "Rechaud",
+        "original_name": "VENDIDO - Rechaud",
         "description": "Inox. Camicado, novíssimo",
         "value": "100",
         "link": "",
@@ -225,7 +225,7 @@
         ]
     },
     "quadrogrande": {
-        "original_name": "Quadro grande",
+        "original_name": "VENDIDO - Quadro grande",
         "description": "Medidas: 102x72",
         "value": "150",
         "link": "",
@@ -245,7 +245,7 @@
         ]
     },
     "tacasdeginn": {
-        "original_name": "Taças de gin",
+        "original_name": "VENDIDO - Taças de gin",
         "description": "2 unidades",
         "value": "20",
         "link": "",
@@ -291,7 +291,7 @@
         ]
     },
     "quadromedio": {
-        "original_name": "Quadro médio",
+        "original_name": "VENDIDO - Quadro médio",
         "description": "Medidas: 72 x 72",
         "value": "150",
         "link": "",
@@ -342,7 +342,7 @@
         ]
     },
     "poltronasala2": {
-        "original_name": "Poltrona sala 2",
+        "original_name": "VENDIDO - Poltrona sala 2",
         "description": "",
         "value": "200",
         "link": "",
@@ -352,7 +352,7 @@
         ]
     },
     "poltronasala": {
-        "original_name": "Poltrona sala",
+        "original_name": "VENDIDO - Poltrona sala",
         "description": "",
         "value": "200",
         "link": "",
@@ -432,7 +432,7 @@
         ]
     },
     "mesacabeceira": {
-        "original_name": "Mesa Cabeceira",
+        "original_name": "VENDIDO - Mesa Cabeceira",
         "description": "Possui arranhões. A:57cm L:46cm",
         "value": "50",
         "link": "",
@@ -505,7 +505,7 @@
         "images": ["/home/ubuntu/vendas-site/images/tapete.jpeg"]
     },
     "quadro": {
-        "original_name": "Quadro",
+        "original_name": "VENDIDO - Quadro",
         "description": "Medidas: 70 x 50",
         "value": "200",
         "link": "",
