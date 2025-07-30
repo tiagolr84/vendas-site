@@ -186,7 +186,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Moedor de Café.jpg"]
     },
     "panelainox": {
-        "original_name": "Panela inox",
+        "original_name": "VENDIDO - Panela inox",
         "description": "Marca: BSF",
         "value": "100",
         "link": "",
@@ -215,7 +215,7 @@
         ]
     },
     "tacadeagua": {
-        "original_name": "Taça de água",
+        "original_name": "VENDIDO - Taça de água",
         "description": "8 unidades",
         "value": "80",
         "link": "",
@@ -235,7 +235,7 @@
         ]
     },
     "tacadevinho": {
-        "original_name": "Taças de Vinho",
+        "original_name": "VENDIDO - Taças de Vinho",
         "description": "6 unidades",
         "value": "60",
         "link": "",
@@ -460,7 +460,7 @@
         ]
     },
     "luminariademesa": {
-        "original_name": "Luminária de mesa",
+        "original_name": "VENDIDO - Luminária de mesa",
         "description": "Tok Stok",
         "value": "50",
         "link": "",
