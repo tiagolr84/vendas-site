@@ -30,6 +30,78 @@
             "/home/ubuntu/vendas-site/images/Liquidificador.jpg"
         ]
     },
+    "mixer": {
+        "original_name": "Mixer",
+        "description": "Mondial",
+        "value": "50",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/mixermondial.jpeg"
+        ]
+    },
+    "assadeira": {
+        "original_name": "Assadeira",
+        "description": "Duralex",
+        "value": "30",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/assadeira.jpeg"
+        ]
+    },
+    "bowlinox": {
+        "original_name": "Bowl Inox",
+        "description": "Tramontina de 7.5L",
+        "value": "30",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/bowl.jpeg",
+            "/home/ubuntu/vendas-site/images/bowl2.jpeg"
+        ]
+    },
+    "bowlrita": {
+        "original_name": "Bowl Cerâmica",
+        "description": "Panelinha - Rita Lobo",
+        "value": "100",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/bowlgranderitalobo.jpeg"
+        ]
+    },
+    "bolorita": {
+        "original_name": "Porto Bolo",
+        "description": "Panelinha - Rita Lobo",
+        "value": "100",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/portaboloritalobo.jpeg",
+            "/home/ubuntu/vendas-site/images/portaboloritalobo2.jpeg"
+        ]
+    },
+    "saladeira": {
+        "original_name": "Saladeira",
+        "description": "Pé em madeira",
+        "value": "150",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/saladeira.jpeg"
+        ]
+    },
+    "frigideira": {
+        "original_name": "Frigideira grande",
+        "description": "BSF - indução - antiaderente - Camicado",
+        "value": "100",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/frigideiragrande.jpeg"
+        ]
+    },
     "paneladepressaoeletrica": {
         "original_name": "Panela de pressão elétrica",
         "description": "Electrolux - 6L",
