@@ -599,6 +599,14 @@
         "category": "Quarto",
         "images": ["/home/ubuntu/vendas-site/images/Mesa Cabeceira.jpg"]
     },
+    "steamer": {
+        "original_name": "Steamer",
+        "description": "Black&Decker",
+        "value": "100",
+        "link": "https://www.camicado.com.br/p/vaporizador-blackdecker/-/A-300046771-br.lc?sku=000000000000046771&gad_source=1&gad_campaignid=17347135826&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKIFHTJ_9BRyKUupgWU5CkT58SVy_BEDLwslGWeA2_GMjMeFhTeuyKUaAhmAEALw_wcB",
+        "category": "Quarto",
+        "images": ["/home/ubuntu/vendas-site/images/steamer.jpeg"]
+    },
     "mesaquarto": {
         "original_name": "Mesa Quarto",
         "description": "Mesa Tok Stok. Tem marcas e arranhões. A:75cm, P:56cm, L:111cm",
