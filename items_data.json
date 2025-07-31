@@ -493,6 +493,16 @@
             "/home/ubuntu/vendas-site/images/QuadrosAnimais.jpg"
         ]
     },
+    "maqubolha": {
+        "original_name": "Máquina de Bolhas de sabão",
+        "description": "Duas velocidades",
+        "value": "40",
+        "link": "https://www.amazon.com.br/M%C3%81QUINA-SOPRADOR-AUTOM%C3%81TICO-PORT%C3%81TIL-COMPRAS/dp/B0CV4CYL8Z/ref=pd_vtp_h_pd_vtp_h_d_sccl_1/136-8449058-9151917?pd_rd_w=uUAsC&content-id=amzn1.sym.1cf25150-063e-419e-86a9-17ce508bc218&pf_rd_p=1cf25150-063e-419e-86a9-17ce508bc218&pf_rd_r=SGGGH1GRKRC56YXKG5X3&pd_rd_wg=B3x7K&pd_rd_r=81ff6f4a-a6fc-477a-9608-d77d70939480&pd_rd_i=B0CV4CYL8Z&psc=1",
+        "category": "Quarto Infantil",
+        "images": [
+            "/home/ubuntu/vendas-site/images/maqubolhas.jpeg"
+        ]
+    },
     "caixadetransporteanimal": {
         "original_name": "Caixa de transporte animal",
         "description": "",
@@ -529,6 +539,36 @@
         "category": "Quarto",
         "images": [
             "/home/ubuntu/vendas-site/images/Cestodecorativo.jpg"
+        ]
+    },
+    "espelhoredondo": {
+        "original_name": "Espelho Redondo",
+        "description": "",
+        "value": "70",
+        "link": "",
+        "category": "Quarto",
+        "images": [
+            "/home/ubuntu/vendas-site/images/espelhoredondo.jpeg"
+        ]
+    },
+    "secadir": {
+        "original_name": "Secador de cabelo",
+        "description": "Taiff 2000W",
+        "value": "100",
+        "link": "",
+        "category": "Quarto",
+        "images": [
+            "/home/ubuntu/vendas-site/images/secador.jpeg"
+        ]
+    },
+    "arandelas": {
+        "original_name": "Arandelas",
+        "description": "pintura branco e cobre. Arandela de tomada.",
+        "value": "40",
+        "link": "",
+        "category": "Quarto",
+        "images": [
+            "/home/ubuntu/vendas-site/images/arandelas.jpeg"
         ]
     },
     "luminariademesa": {
