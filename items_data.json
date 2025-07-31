@@ -83,7 +83,7 @@
         ]
     },
     "pirexoval": {
-        "original_name": "Pirex Oval",
+        "original_name": "VENDIDO - Pirex Oval",
         "description": "Pirex com tampa",
         "value": "40",
         "link": "",
@@ -325,7 +325,7 @@
         ]
     },
     "tacadeagua": {
-        "original_name": "VENDIDO - Taça de água",
+        "original_name": "VENDIDO - Taças de água",
         "description": "8 unidades",
         "value": "80",
         "link": "",
@@ -492,7 +492,7 @@
         ]
     },
     "bike": {
-        "original_name": "VENDIDa - Bicicleta",
+        "original_name": "VENDIDA - Bicicleta",
         "description": "Sense Move Aro 19 - Alumínio câmbio dianteiro e traseiro Shimano",
         "value": "500",
         "link": "https://www.viaexpressabike.com.br/ciclismo/bicicletas/hibrida-urbana-fixa/bicicleta-sense-move-disc-700c-21v-2019-azul-laranja/?srsltid=AfmBOootcwyLb_aIAMufFoE9MwxANoHRXQzN7YuYyxH0e3JzGdHeGkDN",
@@ -803,7 +803,7 @@
         "images": ["/home/ubuntu/vendas-site/images/carrinhorolima.jpeg"]
     },
     "retroescavadeira": {
-        "original_name": "Retroescavadeira",
+        "original_name": "VENDIDO - Retroescavadeira",
         "description": "",
         "value": "80",
         "link": "",
