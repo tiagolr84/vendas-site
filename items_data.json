@@ -31,7 +31,7 @@
         ]
     },
     "mixer": {
-        "original_name": "Mixer",
+        "original_name": "VENDIDO - Mixer",
         "description": "Mondial",
         "value": "50",
         "link": "",
@@ -72,7 +72,7 @@
         ]
     },
     "bolorita": {
-        "original_name": "Porto Bolo",
+        "original_name": "Porta Bolo",
         "description": "Panelinha - Rita Lobo",
         "value": "100",
         "link": "",
@@ -93,7 +93,7 @@
         ]
     },
     "pireret": {
-        "original_name": "Pirex Retângular",
+        "original_name": "VENDIDO - Pirex Retângular",
         "description": "Pirex com tampa",
         "value": "30",
         "link": "",
@@ -315,7 +315,7 @@
         ]
     },
     "jogodesobremesa": {
-        "original_name": "Jogo de sobremesa",
+        "original_name": "VENDIDO - Jogo de sobremesa",
         "description": "6 peças",
         "value": "60",
         "link": "",
@@ -391,7 +391,7 @@
         ]
     },
     "prensafrancesa": {
-        "original_name": "Prensa Francesa",
+        "original_name": "VENDIDO - Prensa Francesa",
         "description": "Marca Maxwell Williams",
         "value": "80",
         "link": "",
@@ -562,7 +562,7 @@
         ]
     },
     "maqubolha": {
-        "original_name": "Máquina de Bolhas de sabão",
+        "original_name": "VENDIDO - Máquina de Bolhas de sabão",
         "description": "Duas velocidades",
         "value": "40",
         "link": "https://www.amazon.com.br/M%C3%81QUINA-SOPRADOR-AUTOM%C3%81TICO-PORT%C3%81TIL-COMPRAS/dp/B0CV4CYL8Z/ref=pd_vtp_h_pd_vtp_h_d_sccl_1/136-8449058-9151917?pd_rd_w=uUAsC&content-id=amzn1.sym.1cf25150-063e-419e-86a9-17ce508bc218&pf_rd_p=1cf25150-063e-419e-86a9-17ce508bc218&pf_rd_r=SGGGH1GRKRC56YXKG5X3&pd_rd_wg=B3x7K&pd_rd_r=81ff6f4a-a6fc-477a-9608-d77d70939480&pd_rd_i=B0CV4CYL8Z&psc=1",
@@ -600,7 +600,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Mesa Cabeceira.jpg"]
     },
     "steamer": {
-        "original_name": "Steamer",
+        "original_name": "VENDIDO - Steamer",
         "description": "Black&Decker",
         "value": "100",
         "link": "https://www.camicado.com.br/p/vaporizador-blackdecker/-/A-300046771-br.lc?sku=000000000000046771&gad_source=1&gad_campaignid=17347135826&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKIFHTJ_9BRyKUupgWU5CkT58SVy_BEDLwslGWeA2_GMjMeFhTeuyKUaAhmAEALw_wcB",
@@ -608,7 +608,7 @@
         "images": ["/home/ubuntu/vendas-site/images/steamer.jpeg"]
     },
     "mesaquarto": {
-        "original_name": "Mesa Quarto",
+        "original_name": "VENDIDO - Mesa Quarto",
         "description": "Mesa Tok Stok. Tem marcas e arranhões. A:75cm, P:56cm, L:111cm",
         "value": "100",
         "link": "",
@@ -618,7 +618,7 @@
         ]
     },
     "cestodecorativo": {
-        "original_name": "Cesto decorativo",
+        "original_name": "VENDIDO - Cesto decorativo",
         "description": "Acompanha eucalipto",
         "value": "50",
         "link": "",
@@ -638,7 +638,7 @@
         ]
     },
     "secadir": {
-        "original_name": "Secador de cabelo",
+        "original_name": "VENDIDO - Secador de cabelo",
         "description": "Taiff 2000W",
         "value": "100",
         "link": "",
@@ -755,7 +755,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Colchonete Ortobom.jpg"]
     },
     "quadros": {
-        "original_name": "Quadros",
+        "original_name": "VENDIDO - Quadros",
         "description": "Medidas: 72,5 x 53",
         "value": "50 cada",
         "link": "",
@@ -779,7 +779,7 @@
         "images": ["/home/ubuntu/vendas-site/images/monitor.png"]
     },
     "bicicleta": {
-        "original_name": "Bicicleta Infantil",
+        "original_name": "VENDIDO - Bicicleta Infantil",
         "description": "",
         "value": "100",
         "link": "",
@@ -787,7 +787,7 @@
         "images": ["/home/ubuntu/vendas-site/images/bicicleta.jpeg"]
     },
     "patinete": {
-        "original_name": "Patinete",
+        "original_name": "VENDIDO - Patinete",
         "description": "",
         "value": "70",
         "link": "",
