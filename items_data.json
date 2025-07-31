@@ -295,6 +295,14 @@
         "category": "Cozinha",
         "images": ["/home/ubuntu/vendas-site/images/Panela Inox.jpg"]
     },
+    "ferro": {
+        "original_name": "Ferro de passar",
+        "description": "Philips Walita Easy Speed",
+        "value": "80",
+        "link": "",
+        "category": "Cozinha",
+        "images": ["/home/ubuntu/vendas-site/images/ferrodepassar.jpeg"]
+    },
     "mesajantar": {
         "original_name": "VENDIDO - Mesa Jantar",
         "description": "Tok Stok. Com 4 cadeiras e tampo de vidro (removível). Possui alguns arranhões. Podemos vender separado. A:76cm, L:80cm, C:135cm",
@@ -543,6 +551,16 @@
             "/home/ubuntu/vendas-site/images/QuadrosAnimais.jpg"
         ]
     },
+    "escadinha": {
+        "original_name": "Escadinhha",
+        "description": "Buba",
+        "value": "40",
+        "link": "https://www.magazineluiza.com.br/banquinho-degrau-infantil-para-banheiro-escada-ursinho-buba/p/kjbg95db14/bb/baif/?&seller_id=oriva&utm_source=google&utm_medium=cpc&utm_term=80681&utm_campaign=google_eco_per_ven_pla_lon_sor_3p_bb-br-itm-li-csp&utm_content=&partner_id=80681&gclsrc=aw.ds&gad_source=1&gad_campaignid=22829495506&gbraid=0AAAAAD4zZmSvhLoTihRMLa0obocNeeVN4&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKJDdNFolVFaaDXQtf5DSoMoTn0MoygLiqXWUALY5EhYUhjgV44PfX0aAo2AEALw_wcB",
+        "category": "Quarto Infantil",
+        "images": [
+            "/home/ubuntu/vendas-site/images/escadinha.jpeg"
+        ]
+    },
     "maqubolha": {
         "original_name": "Máquina de Bolhas de sabão",
         "description": "Duas velocidades",
@@ -561,6 +579,16 @@
         "category": "Varanda",
         "images": [
             "/home/ubuntu/vendas-site/images/Transporteanimal.jpg"
+        ]
+    },
+    "escad": {
+        "original_name": "Escada de Alumínio",
+        "description": "Retrátil - 3 degraus",
+        "value": "100",
+        "link": "https://www.magazineluiza.com.br/banqueta-escada-3-degraus-120kg-standers-aluminio/p/kahjg1c358/mo/bcsl/",
+        "category": "Varanda",
+        "images": [
+            "/home/ubuntu/vendas-site/images/escada.jpeg"
         ]
     },
     "mesacabeceira": {
@@ -725,6 +753,14 @@
         "link": "",
         "category": "Escritório",
         "images": ["/home/ubuntu/vendas-site/images/Quadros.jpg"]
+    },
+    "globo": {
+        "original_name": "Globo Terrestre",
+        "description": "Globo decorativo Camicado",
+        "value": "100",
+        "link": "https://www.camicado.com.br/p/globo-home-style-indigo-cineta/-/A-300039328-br.lc?sku=000000000000039328&gad_source=1&gad_campaignid=17347135826&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKLJf5ZxvUyYh-j6RlJEvWDxtSJrlcctpObweGpTNHEo4wjOQ-YNdoMaAlY8EALw_wcB",
+        "category": "Escritório",
+        "images": ["/home/ubuntu/vendas-site/images/globo.jpeg"]
     },
     "monitor": {
         "original_name": "VENDIDO - Monitor",
