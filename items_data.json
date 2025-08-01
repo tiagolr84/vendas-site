@@ -10,16 +10,6 @@
             "/home/ubuntu/vendas-site/images/GeladeiraSamsung457L-Inverter.jpg"
         ]
     },
-    "microondas": {
-        "original_name": "VENDIDO - Microondas",
-        "description": "Brastemp. Inox 20L. Pouco tempo de uso, novíssimo",
-        "value": "400",
-        "link": "https://www.amazon.com.br/Microondas-Litros-Espelhado-BMS20AR-Brastemp/dp/B0892V28WF/ref=asc_df_B0892V28WF?mcid=b522af18d38139da8c29d99675c1e31f&tag=googleshopp00-20&linkCode=df0&hvadid=709886750320&hvpos=&hvnetw=g&hvrand=8611043834159526698&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100815&hvtargid=pla-1597265436139&psc=1&language=pt_BR&gad_source=1",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/MicroondasBrastemp20L.jpg"
-        ]
-    },
     "liquidificador": {
         "original_name": "Liquidificador",
         "description": "Philips Walita",
