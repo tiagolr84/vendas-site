@@ -113,7 +113,7 @@
         ]
     },
     "saladeira": {
-        "original_name": "Saladeira",
+        "original_name": "VENDIDA - Saladeira",
         "description": "Base em madeira",
         "value": "150",
         "link": "",
@@ -542,7 +542,7 @@
         ]
     },
     "kitquadros": {
-        "original_name": "Kit quadros",
+        "original_name": "VENDIDO - Kit quadros",
         "description": "Grão de Gente",
         "value": "30",
         "link": "",
@@ -628,7 +628,7 @@
         ]
     },
     "espelhoredondo": {
-        "original_name": "Espelho Redondo",
+        "original_name": "VENDIDO - Espelho Redondo",
         "description": "",
         "value": "70",
         "link": "",
