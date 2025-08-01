@@ -30,16 +30,6 @@
             "/home/ubuntu/vendas-site/images/Liquidificador.jpg"
         ]
     },
-    "mixer": {
-        "original_name": "VENDIDO - Mixer",
-        "description": "Mondial",
-        "value": "50",
-        "link": "",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/mixermondial.jpeg"
-        ]
-    },
     "assadeira": {
         "original_name": "Assadeira",
         "description": "Marinex",
@@ -59,16 +49,6 @@
         "images": [
             "/home/ubuntu/vendas-site/images/bowl.jpeg",
             "/home/ubuntu/vendas-site/images/bowl2.jpeg"
-        ]
-    },
-    "bowlrita": {
-        "original_name": "VENDIDO - Bowl Cerâmica",
-        "description": "Panelinha - Rita Lobo",
-        "value": "100",
-        "link": "",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/bowlgranderitalobo.jpeg"
         ]
     },
     "bolorita": {
@@ -112,16 +92,6 @@
             "/home/ubuntu/vendas-site/images/portabolo.jpeg"
         ]
     },
-    "saladeira": {
-        "original_name": "VENDIDA - Saladeira",
-        "description": "Base em madeira",
-        "value": "150",
-        "link": "",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/saladeira.jpeg"
-        ]
-    },
     "frigideira": {
         "original_name": "Frigideira grande",
         "description": "BSF - indução - antiaderente - Camicado",
@@ -148,16 +118,6 @@
         "category": "Sala",
         "images": [
             "/home/ubuntu/vendas-site/images/ClimatizadorMidea.jpg"
-        ]
-    },
-    "mesasaarinen": {
-        "original_name": "VENDIDO - Mesa Saarinen",
-        "description": "pé em alumínio branco e tampo de mármore",
-        "value": "400",
-        "link": "https://www.mobly.com.br/estante-dijon-1-pt-2-gv-freijo-e-preta-145-cm-780982.html?spall_source=especiais&custom_campaign=shop_pmax_1p_bookcases&custom_source=google&custom_medium=cpc&gad_source=1&gad_campaignid=18033468606&gbraid=0AAAAADxqWO_APUljzItt-tKqSNqbVj_p_&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxOE_jnwDEP3Sh_IfY2ba5fOuv-ZVnYQkIeppCzELpyzPynNWgYQcf8aAlghEALw_wcB",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/MesaSaarinen-Tampodemármore.jpg"
         ]
     },
     "sofa": {
@@ -287,14 +247,6 @@
         "category": "Cozinha",
         "images": ["/home/ubuntu/vendas-site/images/Moedor de Café.jpg"]
     },
-    "panelainox": {
-        "original_name": "VENDIDO - Panela inox",
-        "description": "Marca: BSF",
-        "value": "100",
-        "link": "",
-        "category": "Cozinha",
-        "images": ["/home/ubuntu/vendas-site/images/Panela Inox.jpg"]
-    },
     "ferro": {
         "original_name": "Ferro de passar",
         "description": "Philips Walita Easy Speed",
@@ -312,16 +264,6 @@
         "images": [
             "/home/ubuntu/vendas-site/images/MesadeJantarTokStokcom4lugares.jpg",
             "/home/ubuntu/vendas-site/images/MesadeJantarTokStokcom4lugares_2.jpg"
-        ]
-    },
-    "jogodesobremesa": {
-        "original_name": "VENDIDO - Jogo de sobremesa",
-        "description": "6 peças",
-        "value": "60",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Potesobremesa.jpg"
         ]
     },
     "tacadeagua": {
@@ -428,16 +370,6 @@
             "/home/ubuntu/vendas-site/images/RackTVTokStok.jpg"
         ]
     },
-    "pardejarros": {
-        "original_name": "VENDIDO - Par de jarros",
-        "description": "Camicado. Material:Vidro",
-        "value": "100",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/PardeJarros.jpg"
-        ]
-    },
     "buffet": {
         "original_name": "VENDIDO - Buffet",
         "description": "Material: Madeira maciça. Medidas: A: 74cm, P: 45cm, L: 160cm",
@@ -491,16 +423,6 @@
             "/home/ubuntu/vendas-site/images/MesacombanquetasLeroyMerlin.jpg"
         ]
     },
-    "bike": {
-        "original_name": "VENDIDA - Bicicleta",
-        "description": "Sense Move Aro 19 - Alumínio câmbio dianteiro e traseiro Shimano",
-        "value": "500",
-        "link": "https://www.viaexpressabike.com.br/ciclismo/bicicletas/hibrida-urbana-fixa/bicicleta-sense-move-disc-700c-21v-2019-azul-laranja/?srsltid=AfmBOootcwyLb_aIAMufFoE9MwxANoHRXQzN7YuYyxH0e3JzGdHeGkDN",
-        "category": "Varanda",
-        "images": [
-            "/home/ubuntu/vendas-site/images/bicicleta19.jpg"
-        ]
-    },
     "trelicademadeira": {
         "original_name": "VENDIDO - Treliça de madeira",
         "description": "Leroy Merlin. Acompanha 4 cachepots",
@@ -539,16 +461,6 @@
         "category": "Quarto Infantil",
         "images": [
             "/home/ubuntu/vendas-site/images/espelhobebe.jpeg"
-        ]
-    },
-    "kitquadros": {
-        "original_name": "VENDIDO - Kit quadros",
-        "description": "Grão de Gente",
-        "value": "30",
-        "link": "",
-        "category": "Quarto Infantil",
-        "images": [
-            "/home/ubuntu/vendas-site/images/QuadrosAnimais.jpg"
         ]
     },
     "escadinha": {
@@ -722,9 +634,9 @@
     },
     "arcondicionado": {
         "original_name": "Ar condicionado",
-        "description": "Consul inverter 7500 btus - bivolt",
+        "description": "Consul inverter 7000 btus - bivolt",
         "value": "1000",
-        "link": "",
+        "link": "https://www.consul.com.br/ar-condicionado-janela-7000-btus-consul-inverter-frio-cck07bb/p?idsku=326031567&gad_source=4&gad_campaignid=22243271754&gbraid=0AAAAADJ0EzCiIxmFavBy59FY9_rcKtQVT&gclid=CjwKCAjwy7HEBhBJEiwA5hQNojpdDmKQFuHMJB7eBHhRiJQGXWJNuIof37Y5YnqDu3omnrzAPCKLcRoC53oQAvD_BwE",
         "category": "Escritório",
         "images": ["/home/ubuntu/vendas-site/images/Ar Condicionado.jpeg"]
     },
@@ -738,9 +650,9 @@
     },
     "cadeiras": {
         "original_name": "Cadeiras Flexform",
-        "description": "Uma está com um apoio solto",
+        "description": "Uma está com um apoio para lombar solto",
         "value": "400/300",
-        "link": "",
+        "link": "https://www.flexform.com.br/cadeiras/cadeiras-de-escritorio/cadeira-uni-white-n-grey",
         "category": "Escritório",
         "images": [
             "/home/ubuntu/vendas-site/images/CadeiraFlexform.jpg"
@@ -769,14 +681,6 @@
         "link": "https://www.camicado.com.br/p/globo-home-style-indigo-cineta/-/A-300039328-br.lc?sku=000000000000039328&gad_source=1&gad_campaignid=17347135826&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKLJf5ZxvUyYh-j6RlJEvWDxtSJrlcctpObweGpTNHEo4wjOQ-YNdoMaAlY8EALw_wcB",
         "category": "Escritório",
         "images": ["/home/ubuntu/vendas-site/images/globo.jpeg"]
-    },
-    "monitor": {
-        "original_name": "VENDIDO - Monitor",
-        "description": "Tela curva.",
-        "value": "400",
-        "link": "",
-        "category": "Escritório",
-        "images": ["/home/ubuntu/vendas-site/images/monitor.png"]
     },
     "monitor2": {
         "original_name": "Monitor AOC",
