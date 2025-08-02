@@ -639,9 +639,9 @@
         "images": ["/home/ubuntu/vendas-site/images/MesaDuplaescritórioTokStok.jpg"]
     },
     "cadeiras": {
-        "original_name": "Cadeiras Flexform",
-        "description": "Uma está com um apoio para lombar solto",
-        "value": "400/300",
+        "original_name": "Cadeira Flexform",
+        "description": "Está com um apoio para lombar solto",
+        "value": "300",
         "link": "https://www.flexform.com.br/cadeiras/cadeiras-de-escritorio/cadeira-uni-white-n-grey",
         "category": "Escritório",
         "images": [
