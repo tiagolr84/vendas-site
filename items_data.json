@@ -176,7 +176,7 @@
         ]
     },
     "estante": {
-        "original_name": "Estante",
+        "original_name": "VENDIDA - Estante",
         "description": "Medidas: A:185cm, L:145cm, P: 32cm",
         "value": "400",
         "link": "https://www.mobly.com.br/estante-dijon-1-pt-2-gv-freijo-e-preta-145-cm-780982.html?spall_source=especiais&custom_campaign=shop_pmax_1p_bookcases&custom_source=google&custom_medium=cpc&gad_source=1&gad_campaignid=18033468606&gbraid=0AAAAADxqWO_APUljzItt-tKqSNqbVj_p_&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxOE_jnwDEP3Sh_IfY2ba5fOuv-ZVnYQkIeppCzELpyzPynNWgYQcf8aAlghEALw_wcB",
@@ -631,7 +631,7 @@
         "images": ["/home/ubuntu/vendas-site/images/Ar Condicionado.jpeg"]
     },
     "mesadupla": {
-        "original_name": "Mesa Escritório",
+        "original_name": "VENDIDO - Mesa Escritório",
         "description": "Tok Stok",
         "value": "300",
         "link": "",
@@ -673,7 +673,7 @@
         "images": ["/home/ubuntu/vendas-site/images/globo.jpeg"]
     },
     "monitor2": {
-        "original_name": "Monitor AOC",
+        "original_name": "VENDIDO - Monitor AOC",
         "description": "Tela plana, 75hz.",
         "value": "400",
         "link": "https://www.pichau.com.br/monitor-gamer-aoc-sniper-24-led-1ms-75hz-fhd-freesync-hdmi-vga-dp-g2460vq6?srsltid=AfmBOor_thcsSoNmmLozfVFg9HmRBGCNng1GQ5xVjSvyN2lN0NNadd_8",
@@ -697,7 +697,7 @@
         "images": ["/home/ubuntu/vendas-site/images/patinete.jpeg"]
     },
     "carrinhorolima": {
-        "original_name": "Carrinho de rolimã",
+        "original_name": "VENDIDO - Carrinho de rolimã",
         "description": "",
         "value": "150",
         "link": "",
