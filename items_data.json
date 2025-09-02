@@ -29,18 +29,7 @@
             "/home/ubuntu/vendas-site/images/bowl.jpeg",
             "/home/ubuntu/vendas-site/images/bowl2.jpeg"
         ]
-    },
-    "bolorita": {
-        "original_name": "VENDIDO - Porta Bolo",
-        "description": "Panelinha - Rita Lobo",
-        "value": "100",
-        "link": "",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/portaboloritalobo.jpeg",
-            "/home/ubuntu/vendas-site/images/portaboloritalobo2.jpeg"
-        ]
-    },
+    },    
     "frigideira": {
         "original_name": "Frigideira grande",
         "description": "BSF - indução - antiaderente - Camicado",
@@ -108,8 +97,8 @@
     },
     "tacas": {
         "original_name": "Taças",
-        "description": "2 unidades",
-        "value": "30",
+        "description": "8 unidades",
+        "value": "40",
         "link": "",
         "category": "Sala",
         "images": [
@@ -118,7 +107,7 @@
     },
     "copos": {
         "original_name": "Copos",
-        "description": "3 unidades",
+        "description": "3 unidades - 400ml",
         "value": "40",
         "link": "",
         "category": "Sala",
@@ -152,6 +141,16 @@
         "category": "Quarto Infantil",
         "images": [
             "/home/ubuntu/vendas-site/images/escadinha.jpeg"
+        ]
+    },    
+    "umidificador": {
+        "original_name": "Umidificador de ar",
+        "description": "Multilaser - pouco uso",
+        "value": "50",
+        "link": "https://www.magazineluiza.com.br/umidificador-portatil-ultrassonico-multilaser-hc026-21l/p/224627700/cp/pura/?&seller_id=magazineluiza&utm_source=google&utm_medium=cpc&utm_term=69579&utm_campaign=google_eco_per_ven_pla_all_sor_4p_all-products&utm_content=&partner_id=69579&gclsrc=aw.ds&gad_source=4&gad_campaignid=18473140027&gbraid=0AAAAAD4zZmTYdeSZmpK64hgL0G7EkVAPc&gclid=CjwKCAjwq9rFBhAIEiwAGVAZPxyMj77Hru5f-tfyn2PQI5VACHJLAgG7qahZioPbXH0cTFvCiE9DKRoCgmEQAvD_BwE",
+        "category": "Quarto Infantil",
+        "images": [
+            "/home/ubuntu/vendas-site/images/umidificador.jpeg"
         ]
     },    
     "caixadetransporteanimal": {
