@@ -29,6 +29,16 @@
             "/home/ubuntu/vendas-site/images/bowl.jpeg",
             "/home/ubuntu/vendas-site/images/bowl2.jpeg"
         ]
+    },
+    "quadrocafe": {
+        "original_name": "Quadro coffe",
+        "description": "Quadro Café",
+        "value": "50",
+        "link": "",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/quadrocafe.jpeg",
+            ]
     },    
     "frigideira": {
         "original_name": "Frigideira grande",
@@ -189,6 +199,17 @@
         "link": "",
         "category": "Quarto",
         "images": ["/home/ubuntu/vendas-site/images/tapete.jpeg"]
+    },
+    "tapetetok": {
+        "original_name": "Tapete TokStok",
+        "description": "Tapete TokStok, 1.5m x 2m - 100% algodão e vai na máquina de lavar",
+        "value": "350",
+        "link": "link do produto: https://www.tokstok.com.br/e-volta-tapete-1-50-m-x-2-m-natural-cinza-vira/p?srsltid=AfmBOophbcV0_iW1jtRGL0TxJAWjmVw9x6--udkMgGmNb-czgEbdkaX2",
+        "category": "Cozinha",
+        "images": [
+            "/home/ubuntu/vendas-site/images/tapete1.jpeg",
+            "/home/ubuntu/vendas-site/images/tapete2.jpeg"
+        ]
     },
     "arcondicionado": {
         "original_name": "Ar condicionado",
