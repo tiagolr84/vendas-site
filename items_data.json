@@ -1,15 +1,4 @@
 {
-    "geladeira": {
-        "original_name": "VENDIDA - Geladeira",
-        "description": "Samsung Inox - 456L A:185cm, L:70cm, P:73cm",
-        "value": "1500",
-        "link": "https://www.samsung.com/br/refrigerators/top-mount-freezer/top-freezer-rt46k6a4ks9-rt46k6a4ks9-fz/",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/GeladeiraSamsung457L-Inverter_2.jpg",
-            "/home/ubuntu/vendas-site/images/GeladeiraSamsung457L-Inverter.jpg"
-        ]
-    },
     "liquidificador": {
         "original_name": "Liquidificador",
         "description": "Philips Walita",
@@ -52,36 +41,6 @@
             "/home/ubuntu/vendas-site/images/portaboloritalobo2.jpeg"
         ]
     },
-    "pirexoval": {
-        "original_name": "VENDIDO - Pirex Oval",
-        "description": "Pirex com tampa",
-        "value": "40",
-        "link": "",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/pirexoval.jpeg"
-        ]
-    },
-    "pireret": {
-        "original_name": "VENDIDO - Pirex Retângular",
-        "description": "Pirex com tampa",
-        "value": "30",
-        "link": "",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/pirexretangular.jpeg"
-        ]
-    },
-    "portabolopeti": {
-        "original_name": "VENDIDO - Porta bolo e petisqueira",
-        "description": "Porta bolo e petisqueira Tok Stok",
-        "value": "100",
-        "link": "",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/portabolo.jpeg"
-        ]
-    },
     "frigideira": {
         "original_name": "Frigideira grande",
         "description": "BSF - indução - antiaderente - Camicado",
@@ -99,27 +58,7 @@
         "link": "https://www.camicado.com.br/p/panela-de-pressao-eletrica-electrolux/-/A-300037865-br.lc?sku=000000000000037866&gad_source=1&gad_campaignid=21172609359&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxPHN7yR4gvwzevaupdSfgSuag7qh7OH125-MRu2l1qkF08yz1b-Y34aAjSOEALw_wcB",
         "category": "Cozinha",
         "images": ["/home/ubuntu/vendas-site/images/Paneladepressãoelétrica.jpg"]
-    },
-    "climatizador": {
-        "original_name": "VENDIDO - Climatizador",
-        "description": "Midea",
-        "value": "150",
-        "link": "https://www.leroymerlin.com.br/climatizador-de-ar-portatil-frio-midea-4,5l-127v--110v--akap_92182356?region=outros&region_id=43000&gad_source=1&gad_campaignid=21060357769&gbraid=0AAAAADkzLZ4kKrcPj2qmcjxuOUYwkRWYK&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxMfSNPVrrM6A461tavgiFmzqpmW8pg0QIrBB4tXoQ134OL17lfseoMaAqBZEALw_wcB",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/ClimatizadorMidea.jpg"
-        ]
-    },
-    "sofa": {
-        "original_name": "VENDIDO - Sofá",
-        "description": "Almofadas do encosto removíveis. Possui algumas manchas que sairão com lavagem profissional.",
-        "value": "400",
-        "link": "https://homedock.com.br/products/sofa-3-lugares-madrid-218-cm-linho-texturizado-cinza-c-natural",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Sofá4lugares-Homedock.jpg"
-        ]
-    },
+    },   
     "nespresso": {
         "original_name": "VENDIDO - Nespresso",
         "description": "Pouquíssimo uso, linha nova da Nespresso. Acompanha algumas cápsulas",
@@ -131,22 +70,6 @@
             "/home/ubuntu/vendas-site/images/NespressoVertuoPop.jpg"
         ]
     },
-    "tvsala": {
-        "original_name": "VENDIDO - TV Sala",
-        "description": "Samsung 50' Crystal 4K",
-        "value": "1200",
-        "link": "https://www.amazon.com.br/Samsung-Smart-UHD-50DU7700-Processador/dp/B0CYNCBBHG/ref=asc_df_B0CYNCBBHG?mcid=402ee8393e8b3d61a2c963b246f3d9a6&tag=googleshopp00-20&linkCode=df0&hvadid=709964502896&hvpos=&hvnetw=g&hvrand=8961176874226046288&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100815&hvtargid=pla-2307665521902&psc=1&language=pt_BR&gad_source=1",
-        "category": "Sala",
-        "images": ["/home/ubuntu/vendas-site/images/TVSamsung504KCrystal.jpg"]
-    },
-    "luminaria": {
-        "original_name": "VENDIDO -Luminária",
-        "description": "Tok Stok",
-        "value": "250",
-        "link": "https://www.tokstok.com.br/de-chao-aline-c-cupula-h-luz-preto-natural-luminaria/p?idsku=957012822&region_id=000008&utm_source=google&utm_medium=cpc&utm_campaign=18137643299&utm_term=&gad_source=4&gad_campaignid=18133326217&gbraid=0AAAAADGVPjWXALpJYUgesEWiS60v08fI_&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxPzKhsYFqK4WSGqbsYFcIzSk_Qp2GhHl-FNivwS0wjNefmgLRbZTHsaAnXQEALw_wcB",
-        "category": "Sala",
-        "images": ["/home/ubuntu/vendas-site/images/LumináriaTokStok.jpg"]
-    },
     "bancopequenopreto": {
         "original_name": "Banco pequeno preto",
         "description": "Tok stok",
@@ -154,47 +77,7 @@
         "link": "https://www.tokstok.com.br/banco-baixo-natural-washed-branco-paletbox/p?idsku=304029&region_id=000008&utm_source=google&utm_medium=cpc&utm_campaign=18246656113&utm_term=&gad_source=1&gad_campaignid=18246657832&gbraid=0AAAAADGVPjV8Fqfr03hXK2nx_HR7TzSF7&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxMfSylEw4_VrpETw7Pk3rmDBVHBX6Oq1a_9MxoH6zA7TsosgqmwiWQaAn_lEALw_wcB",
         "category": "Sala",
         "images": ["/home/ubuntu/vendas-site/images/Banco Pequeno.jpg"]
-    },
-    "churrasqueira": {
-        "original_name": "VENDIDO - Churrasqueira",
-        "description": "Portátil, utiliza carvão",
-        "value": "300",
-        "link": "https://www.amazon.com.br/Table-Grill-Churrasqueira-Carv%C3%A3o-Cinza/dp/B07RXV7CV1/ref=asc_df_B07RXV7CV1?mcid=bb03bb470085370ea48b642a1e87dd6f&tag=googleshopp00-20&linkCode=df0&hvadid=709885039576&hvpos=&hvnetw=g&hvrand=7951333095710112518&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100815&hvtargid=pla-796921931001&language=pt_BR&gad_source=1&th=1",
-        "category": "Varanda",
-        "images": [
-            "/home/ubuntu/vendas-site/images/ChurrasqueiraPortátil.jpg"
-        ]
-    },
-    "comoda": {
-        "original_name": "VENDIDO - Cômoda",
-        "description": "4 gavetas. Pouco tempo de uso",
-        "value": "600",
-        "link": "https://www.tokstok.com.br/comoda-4-gavetas-90-cm-x-45-cm-branco-mince/p?idsku=333404&region_id=000008&utm_source=google&utm_medium=cpc&utm_campaign=18246975493&utm_term=&gad_source=1&gad_campaignid=18245623617&gbraid=0AAAAADGVPjULT7oIvHGnhbin58S-j6ZEz&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxMleu1rnQ2NVKqkuT-AsSWi5TrTBzaowq-jxWiN6mpr_QSSCX9JNc8aAuWGEALw_wcB",
-        "category": "Quarto Infantil",
-        "images": [
-            "/home/ubuntu/vendas-site/images/ComodaTokStok.jpg"
-        ]
-    },
-    "estante": {
-        "original_name": "VENDIDA - Estante",
-        "description": "Medidas: A:185cm, L:145cm, P: 32cm",
-        "value": "400",
-        "link": "https://www.mobly.com.br/estante-dijon-1-pt-2-gv-freijo-e-preta-145-cm-780982.html?spall_source=especiais&custom_campaign=shop_pmax_1p_bookcases&custom_source=google&custom_medium=cpc&gad_source=1&gad_campaignid=18033468606&gbraid=0AAAAADxqWO_APUljzItt-tKqSNqbVj_p_&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxOE_jnwDEP3Sh_IfY2ba5fOuv-ZVnYQkIeppCzELpyzPynNWgYQcf8aAlghEALw_wcB",
-        "category": "Escritório",
-        "images": [
-            "/home/ubuntu/vendas-site/images/EstanteMobly.jpg"
-        ]
-    },
-    "rechaud": {
-        "original_name": "VENDIDO - Rechaud",
-        "description": "Inox. Camicado, novíssimo",
-        "value": "100",
-        "link": "",
-        "category": "Cozinha",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Rechaud.jpg"
-        ]
-    },
+    },     
     "sopeira": {
         "original_name": "Sopeira",
         "description": "Camicado. 2L",
@@ -204,39 +87,7 @@
         "images": [
             "/home/ubuntu/vendas-site/images/Soperia2L.jpg"
         ]
-    },
-    "processadoreliquidificador": {
-        "original_name": "VENDIDO - Processador e liquidificador",
-        "description": "Philips Walita. Acompanha copo de liquidificador e acessórios para o processador",
-        "value": "150",
-        "link": "",
-        "category": "Cozinha",
-        "images": ["/home/ubuntu/vendas-site/images/Processador Walita.jpg"]
-    },
-    "bebedouroeletrico": {
-        "original_name": "VENDIDO - Bebedouro elétrico",
-        "description": "Para gatos e cachorros",
-        "value": "30",
-        "link": "",
-        "category": "Varanda",
-        "images": ["/home/ubuntu/vendas-site/images/Bebedouro Pet Elétrico.jpg"]
-    },
-    "torradeira": {
-        "original_name": "VENDIDO - Torradeira",
-        "description": "",
-        "value": "50",
-        "link": "",
-        "category": "Cozinha",
-        "images": ["/home/ubuntu/vendas-site/images/Torradeira Philco.jpg"]
-    },
-    "moedor": {
-        "original_name": "VENDIDO - Moedor de Café",
-        "description": "Philco - pouco uso",
-        "value": "80",
-        "link": "https://www.philco.com.br/perfect-coffee/p",
-        "category": "Cozinha",
-        "images": ["/home/ubuntu/vendas-site/images/Moedor de Café.jpg"]
-    },
+    },    
     "ferro": {
         "original_name": "Ferro de passar",
         "description": "Philips Walita Easy Speed",
@@ -244,56 +95,7 @@
         "link": "",
         "category": "Cozinha",
         "images": ["/home/ubuntu/vendas-site/images/ferrodepassar.jpeg"]
-    },
-    "mesajantar": {
-        "original_name": "VENDIDO - Mesa Jantar",
-        "description": "Tok Stok. Com 4 cadeiras e tampo de vidro (removível). Possui alguns arranhões. Podemos vender separado. A:76cm, L:80cm, C:135cm",
-        "value": "500",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/MesadeJantarTokStokcom4lugares.jpg",
-            "/home/ubuntu/vendas-site/images/MesadeJantarTokStokcom4lugares_2.jpg"
-        ]
-    },
-    "tacadeagua": {
-        "original_name": "VENDIDO - Taças de água",
-        "description": "8 unidades",
-        "value": "80",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Taças.jpg"
-        ]
-    },
-    "quadrogrande": {
-        "original_name": "VENDIDO - Quadro grande",
-        "description": "Medidas: 102x72",
-        "value": "150",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Quadrogrande.jpg"
-        ]
-    },
-    "tacadevinho": {
-        "original_name": "VENDIDO - Taças de Vinho",
-        "description": "6 unidades",
-        "value": "60",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Tacasdevinho.jpeg"
-        ]
-    },
-    "tacasdeginn": {
-        "original_name": "VENDIDO - Taças de gin",
-        "description": "2 unidades",
-        "value": "20",
-        "link": "",
-        "category": "Sala",
-        "images": ["/home/ubuntu/vendas-site/images/Taçasgin.jpg"]
-    },
+    },    
     "coposwhisky": {
         "original_name": "Copos whisky",
         "description": "4 unidades",
@@ -304,6 +106,26 @@
             "/home/ubuntu/vendas-site/images/CoposdeWhisky.jpg"
         ]
     },
+    "tacas": {
+        "original_name": "Taças",
+        "description": "2 unidades",
+        "value": "30",
+        "link": "",
+        "category": "Sala",
+        "images": [
+            "/home/ubuntu/vendas-site/images/taças.jpeg"
+        ]
+    },
+    "copos": {
+        "original_name": "Copos",
+        "description": "3 unidades",
+        "value": "40",
+        "link": "",
+        "category": "Sala",
+        "images": [
+            "/home/ubuntu/vendas-site/images/copos.jpeg"
+        ]
+    },
     "lampadaretroled": {
         "original_name": "Lampada retro led",
         "description": "Par. Marca: Osram",
@@ -311,138 +133,7 @@
         "link": "",
         "category": "Sala",
         "images": ["/home/ubuntu/vendas-site/images/lampada.jpg"]
-    },
-    "tacasdelicor": {
-        "original_name": "VENDIDO - Taças de licor",
-        "description": "6 unidades - cristal",
-        "value": "60",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/TaçasdeLicor.jpg"
-        ]
-    },
-    "prensafrancesa": {
-        "original_name": "VENDIDO - Prensa Francesa",
-        "description": "Marca Maxwell Williams",
-        "value": "80",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/PrensaFrancesa.jpg"
-        ]
-    },
-    "quadromedio": {
-        "original_name": "VENDIDO - Quadro médio",
-        "description": "Medidas: 72 x 72",
-        "value": "150",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/QuadroMar.jpg"
-        ]
-    },
-    "puff": {
-        "original_name": "VENDIDO - Puff",
-        "description": "Possui manchas",
-        "value": "30",
-        "link": "",
-        "category": "Sala",
-        "images": ["/home/ubuntu/vendas-site/images/Puff.jpg"]
-    },
-    "racktv": {
-        "original_name": "VENDIDO - Rack TV",
-        "description": "Rack Tok Stok. Medidas: P:36cm, A:57cm, C:160cm",
-        "value": "500",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/RackTVTokStok.jpg"
-        ]
-    },
-    "buffet": {
-        "original_name": "VENDIDO - Buffet",
-        "description": "Material: Madeira maciça. Medidas: A: 74cm, P: 45cm, L: 160cm",
-        "value": "1200",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/BuffetMadeira.jpg",
-            "/home/ubuntu/vendas-site/images/BuffetMadeira_2.jpg",
-            "/home/ubuntu/vendas-site/images/BuffetMadeira_3.jpg",
-            "/home/ubuntu/vendas-site/images/BuffetMadeira_4.jpg"
-        ]
-    },
-    "poltronasala2": {
-        "original_name": "VENDIDO - Poltrona sala 2",
-        "description": "",
-        "value": "200",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/PoltronaSala.jpg"
-        ]
-    },
-    "poltronasala": {
-        "original_name": "VENDIDO - Poltrona sala",
-        "description": "",
-        "value": "200",
-        "link": "",
-        "category": "Sala",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Poltrona.jpg"
-        ]
-    },
-    "chaise": {
-        "original_name": "VENDIDO - Chaise",
-        "description": "Tecido impermeável para área externa. Acompanha 3 almofadas azuis e 2 brancas",
-        "value": "500",
-        "link": "",
-        "category": "Varanda",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Chaisecomalmofadas.jpg"
-        ]
-    },
-    "mesavaranda": {
-        "original_name": "VENDIDA - Mesa varanda",
-        "description": "Leroy Merlin. Acompanha duas banquetas",
-        "value": "250",
-        "link": "",
-        "category": "Varanda",
-        "images": [
-            "/home/ubuntu/vendas-site/images/MesacombanquetasLeroyMerlin.jpg"
-        ]
-    },
-    "trelicademadeira": {
-        "original_name": "VENDIDO - Treliça de madeira",
-        "description": "Leroy Merlin. Acompanha 4 cachepots",
-        "value": "100",
-        "link": "",
-        "category": "Varanda",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Treliça.jpg"
-        ]
-    },
-    "lanterna": {
-        "original_name": "VENDIDO - Lanterna",
-        "description": "Camicado",
-        "value": "50",
-        "link": "",
-        "category": "Varanda",
-        "images": [
-            "/home/ubuntu/vendas-site/images/LanternadecorativaTokStok.jpg"
-        ]
-    },
-    "camainfantil": {
-        "original_name": "VENDIDO - Cama infantil",
-        "description": "Acompanha colchão infantil. L:72cm, C:160cm, A:145cm",
-        "value": "300",
-        "link": "",
-        "category": "Quarto Infantil",
-        "images": [
-            "/home/ubuntu/vendas-site/images/CamaInfantilcomcolchão.jpg"
-        ]
-    },
+    },  
     "espelhocarro": {
         "original_name": "Espelho para carro",
         "description": "Para poder ver o bebê conforto",
@@ -462,17 +153,7 @@
         "images": [
             "/home/ubuntu/vendas-site/images/escadinha.jpeg"
         ]
-    },
-    "maqubolha": {
-        "original_name": "VENDIDO - Máquina de Bolhas de sabão",
-        "description": "Duas velocidades",
-        "value": "40",
-        "link": "https://www.amazon.com.br/M%C3%81QUINA-SOPRADOR-AUTOM%C3%81TICO-PORT%C3%81TIL-COMPRAS/dp/B0CV4CYL8Z/ref=pd_vtp_h_pd_vtp_h_d_sccl_1/136-8449058-9151917?pd_rd_w=uUAsC&content-id=amzn1.sym.1cf25150-063e-419e-86a9-17ce508bc218&pf_rd_p=1cf25150-063e-419e-86a9-17ce508bc218&pf_rd_r=SGGGH1GRKRC56YXKG5X3&pd_rd_wg=B3x7K&pd_rd_r=81ff6f4a-a6fc-477a-9608-d77d70939480&pd_rd_i=B0CV4CYL8Z&psc=1",
-        "category": "Quarto Infantil",
-        "images": [
-            "/home/ubuntu/vendas-site/images/maqubolhas.jpeg"
-        ]
-    },
+    },    
     "caixadetransporteanimal": {
         "original_name": "Caixa de transporte animal",
         "description": "",
@@ -492,63 +173,7 @@
         "images": [
             "/home/ubuntu/vendas-site/images/escada.jpeg"
         ]
-    },
-    "mesacabeceira": {
-        "original_name": "VENDIDO - Mesa Cabeceira",
-        "description": "Possui arranhões. A:57cm L:46cm",
-        "value": "50",
-        "link": "",
-        "category": "Quarto",
-        "images": ["/home/ubuntu/vendas-site/images/Mesa Cabeceira.jpg"]
-    },
-    "steamer": {
-        "original_name": "VENDIDO - Steamer",
-        "description": "Black&Decker",
-        "value": "100",
-        "link": "https://www.camicado.com.br/p/vaporizador-blackdecker/-/A-300046771-br.lc?sku=000000000000046771&gad_source=1&gad_campaignid=17347135826&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKIFHTJ_9BRyKUupgWU5CkT58SVy_BEDLwslGWeA2_GMjMeFhTeuyKUaAhmAEALw_wcB",
-        "category": "Quarto",
-        "images": ["/home/ubuntu/vendas-site/images/steamer.jpeg"]
-    },
-    "mesaquarto": {
-        "original_name": "VENDIDO - Mesa Quarto",
-        "description": "Mesa Tok Stok. Tem marcas e arranhões. A:75cm, P:56cm, L:111cm",
-        "value": "100",
-        "link": "",
-        "category": "Quarto",
-        "images": [
-            "/home/ubuntu/vendas-site/images/MesaEscritórioTokStok.jpg"
-        ]
-    },
-    "cestodecorativo": {
-        "original_name": "VENDIDO - Cesto decorativo",
-        "description": "Acompanha eucalipto",
-        "value": "50",
-        "link": "",
-        "category": "Quarto",
-        "images": [
-            "/home/ubuntu/vendas-site/images/Cestodecorativo.jpg"
-        ]
-    },
-    "espelhoredondo": {
-        "original_name": "VENDIDO - Espelho Redondo",
-        "description": "",
-        "value": "70",
-        "link": "",
-        "category": "Quarto",
-        "images": [
-            "/home/ubuntu/vendas-site/images/espelhoredondo.jpeg"
-        ]
-    },
-    "secadir": {
-        "original_name": "VENDIDO - Secador de cabelo",
-        "description": "Taiff 2000W",
-        "value": "100",
-        "link": "",
-        "category": "Quarto",
-        "images": [
-            "/home/ubuntu/vendas-site/images/secador.jpeg"
-        ]
-    },
+    },       
     "arandelas": {
         "original_name": "Arandelas",
         "description": "pintura branco e cobre. Arandela de tomada.",
@@ -556,46 +181,8 @@
         "link": "",
         "category": "Quarto",
         "images": [
-            "/home/ubuntu/vendas-site/images/arandelas.jpeg"
-        ]
-    },
-    "luminariademesa": {
-        "original_name": "VENDIDO - Luminária de mesa",
-        "description": "Tok Stok",
-        "value": "50",
-        "link": "",
-        "category": "Quarto",
-        "images": ["/home/ubuntu/vendas-site/images/LumináriaTokStok_2.jpg"]
-    },
-    "arvoredenatal": {
-        "original_name": "VENDIDO - Árvore de Natal",
-        "description": "não acompanha adornos",
-        "value": "100",
-        "link": "",
-        "category": "Quarto",
-        "images": ["/home/ubuntu/vendas-site/images/Árvore de Natal.jpg"]
-    },
-    "furadeiraeparafusadeira": {
-        "original_name": "VENDIDO - Furadeira e Parafusadeira",
-        "description": "Black & Decker",
-        "value": "80",
-        "link": "",
-        "category": "Quarto",
-        "images": [
-            "/home/ubuntu/vendas-site/images/ParafusadeiraeFuradeiraB&D.jpg",
-            "/home/ubuntu/vendas-site/images/ParafusadeiraeFuradeiraB&D_2.jpg"
-        ]
-    },
-    "miniaquecedor": {
-        "original_name": "VENDIDO - Mini aquecedor",
-        "description": "Britânia",
-        "value": "70",
-        "link": "",
-        "category": "Quarto",
-        "images": [
-            "/home/ubuntu/vendas-site/images/AquecedorBritânia.jpg"
-        ]
-    },
+            "/home/ubuntu/vendas-site/images/arandelas.jpeg"]
+    },    
     "tapetecinza": {
         "original_name": "Tapete Cinza",
         "description": "",
@@ -604,24 +191,6 @@
         "category": "Quarto",
         "images": ["/home/ubuntu/vendas-site/images/tapete.jpeg"]
     },
-    "quadro": {
-        "original_name": "VENDIDO - Quadro",
-        "description": "Medidas: 70 x 50",
-        "value": "200",
-        "link": "",
-        "category": "Quarto",
-        "images": ["/home/ubuntu/vendas-site/images/Quadro.jpg"]
-    },
-    "espelhocomluzledbranca": {
-        "original_name": "VENDIDO - Espelho com Luz led branca",
-        "description": "",
-        "value": "50",
-        "link": "",
-        "category": "Quarto",
-        "images": [
-            "/home/ubuntu/vendas-site/images/EspelhocomLED.jpg"
-        ]
-    },
     "arcondicionado": {
         "original_name": "Ar condicionado",
         "description": "Consul inverter 7000 btus - bivolt",
@@ -629,15 +198,7 @@
         "link": "https://www.consul.com.br/ar-condicionado-janela-7000-btus-consul-inverter-frio-cck07bb/p?idsku=326031567&gad_source=4&gad_campaignid=22243271754&gbraid=0AAAAADJ0EzCiIxmFavBy59FY9_rcKtQVT&gclid=CjwKCAjwy7HEBhBJEiwA5hQNojpdDmKQFuHMJB7eBHhRiJQGXWJNuIof37Y5YnqDu3omnrzAPCKLcRoC53oQAvD_BwE",
         "category": "Escritório",
         "images": ["/home/ubuntu/vendas-site/images/Ar Condicionado.jpeg"]
-    },
-    "mesadupla": {
-        "original_name": "VENDIDO - Mesa Escritório",
-        "description": "Tok Stok",
-        "value": "300",
-        "link": "",
-        "category": "Escritório",
-        "images": ["/home/ubuntu/vendas-site/images/MesaDuplaescritórioTokStok.jpg"]
-    },
+    },    
     "cadeiras": {
         "original_name": "Cadeira Flexform",
         "description": "Está com um apoio para lombar solto",
@@ -647,69 +208,5 @@
         "images": [
             "/home/ubuntu/vendas-site/images/CadeiraFlexform.jpg"
         ]
-    },
-    "colchonetesolteiro": {
-        "original_name": "VENDIDO - Colchonete solteiro",
-        "description": "Ortobom",
-        "value": "100",
-        "link": "",
-        "category": "Escritório",
-        "images": ["/home/ubuntu/vendas-site/images/Colchonete Ortobom.jpg"]
-    },
-    "quadros": {
-        "original_name": "VENDIDO - Quadros",
-        "description": "Medidas: 72,5 x 53",
-        "value": "50 cada",
-        "link": "",
-        "category": "Escritório",
-        "images": ["/home/ubuntu/vendas-site/images/Quadros.jpg"]
-    },
-    "globo": {
-        "original_name": "VENDIDO - Globo Terrestre",
-        "description": "Globo decorativo Camicado",
-        "value": "100",
-        "link": "https://www.camicado.com.br/p/globo-home-style-indigo-cineta/-/A-300039328-br.lc?sku=000000000000039328&gad_source=1&gad_campaignid=17347135826&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKLJf5ZxvUyYh-j6RlJEvWDxtSJrlcctpObweGpTNHEo4wjOQ-YNdoMaAlY8EALw_wcB",
-        "category": "Escritório",
-        "images": ["/home/ubuntu/vendas-site/images/globo.jpeg"]
-    },
-    "monitor2": {
-        "original_name": "VENDIDO - Monitor AOC",
-        "description": "Tela plana, 75hz.",
-        "value": "400",
-        "link": "https://www.pichau.com.br/monitor-gamer-aoc-sniper-24-led-1ms-75hz-fhd-freesync-hdmi-vga-dp-g2460vq6?srsltid=AfmBOor_thcsSoNmmLozfVFg9HmRBGCNng1GQ5xVjSvyN2lN0NNadd_8",
-        "category": "Escritório",
-        "images": ["/home/ubuntu/vendas-site/images/monitor2.jpeg"]
-    },
-    "bicicleta": {
-        "original_name": "VENDIDO - Bicicleta Infantil",
-        "description": "",
-        "value": "100",
-        "link": "",
-        "category": "Quarto Infantil",
-        "images": ["/home/ubuntu/vendas-site/images/bicicleta.jpeg"]
-    },
-    "patinete": {
-        "original_name": "VENDIDO - Patinete",
-        "description": "",
-        "value": "70",
-        "link": "",
-        "category": "Quarto Infantil",
-        "images": ["/home/ubuntu/vendas-site/images/patinete.jpeg"]
-    },
-    "carrinhorolima": {
-        "original_name": "VENDIDO - Carrinho de rolimã",
-        "description": "",
-        "value": "150",
-        "link": "",
-        "category": "Quarto Infantil",
-        "images": ["/home/ubuntu/vendas-site/images/carrinhorolima.jpeg"]
-    },
-    "retroescavadeira": {
-        "original_name": "VENDIDO - Retroescavadeira",
-        "description": "",
-        "value": "80",
-        "link": "",
-        "category": "Quarto Infantil",
-        "images": ["/home/ubuntu/vendas-site/images/Retroescavadeira.jpeg"]
     }
-}
+  }  
